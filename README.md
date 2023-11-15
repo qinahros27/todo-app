@@ -1,5 +1,5 @@
 # Introduction
-This project uses basic HTML elements, Javascript ,SCSS to create a simple application to let users add/remove/edit tasks.
+This project uses basic HTML elements, Javascript - DOM manipulation,SCSS to create a simple application to let users add/remove/edit tasks.
 
 ## Table of content
 - Technologies
